@@ -17,7 +17,8 @@ Figure 1| Screenshot of the pong game in which the green paddles are controlled 
 
 ## Preliminary steps
 
-To complete this workshop, you will need a computer with a webcam. You will also need to know Python and have installed mediapipe as well as pygame. 
+To complete this workshop, you will need a computer with a webcam. You will also need to know Python and have installed mediapipe as well as pygame.
+The step by step instructions are in [Vision_for_HCI.pdf](Vision_for_HCI.pdf)
 
 ## Part 1 - Getting Familiar with OpenCV and MediaPipe
 
