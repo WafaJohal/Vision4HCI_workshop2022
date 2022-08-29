@@ -2,6 +2,10 @@
 
 Week 9 - Designing Novel Interactions (University of Melbourne)
 
+https://wafa.johal.org/Vision4HCI_workshop2022/intro.html#
+
+
+
 ## Description
 
 In this session, you will learn how to use machine vision to make new controls for a game.

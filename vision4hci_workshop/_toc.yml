@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: part1-1_read-image
+- file: part1-2_extract-hand
+- file: part1-3_videostream
+- file: part2_hand-controlled-thresholding
+- file: part3_pong-game
